@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(221, 221, 221);
+}
+.Header {
+  background-color: rgb(0, 132, 255);
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  height: 100px;
+}
+ul {
+  display: flex;
+  background-color: rgb(0, 238, 255);
+}
+li {
+  margin: auto;
+  font-size: 25px;
+  color: rgb(74, 85, 84);
+  font-weight: bold;
+}
+.Title {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 5rem;
+  font-weight: bold;
+}
+.First_Context {
+  background-color: white;
+  display: flex;
+}
+.Second_Context {
+  background-color: white;
+  display: flex;
+}
+.Third_Context {
+  background-color: white;
+  display: flex;
+}
+.Content {
+  background-color: rgb(1, 186, 199);
+  color: white;
+  font-size: 20px;
+  margin: auto;
+  margin: 10px;
+  padding: 5px;
+  width: 33.3%;
+  border-radius: 5px;
+}
